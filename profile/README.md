@@ -18,3 +18,44 @@ $ yarn add react-slick @types/react-slick slick-carousel
 $ yarn add slick-carousel
 $ yarn add jwt-decode
 ```
+
+<br/>
+
+# 👀 쩜다 . JJeomda .
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white">
+
+<br/>
+
+![쩜다](../images/banner_bg_1.png)
+
+<br/>
+
+심심해서 나 혼자 개발해보는 ,
+
+## 블라인드 인연 매칭 서비스
+
+<br/>
+
+<img src="../images/signup.png" width="320" height="560"/>&nbsp;&nbsp;&nbsp;<img src="../images/login.png" width="320" height="560"/>
+
+<br/>
+
+# 🌐 Simpe Architecture
+
+![쩜다](../images/architecture.png)
+
+<br/>
+
+# 👨‍👩‍👧‍👦 Development
+
+|   구분    |  기술스택   |
+| :-------: | :---------: |
+| 📌 프론트 |   리액트    |
+| 🔒 백앤드 | 스프링 부트 |
+
+<br/>
+
+<img src="../images/home_2.png" width="320" height="540"/>&nbsp;&nbsp;&nbsp;<img src="../images/home_3.png" width="320" height="540"/><br/><img src="../images/home_4.png" width="320" height="540"/>&nbsp;&nbsp;&nbsp;<img src="../images/home_5.png" width="320" height="540"/>
+
+<br/>
