@@ -27,7 +27,7 @@ $ yarn add jwt-decode
 
 <br/>
 
-![쩜다](../images/banner_bg_1.png)
+![쩜다](./images/banner_bg_1.png)
 
 <br/>
 
@@ -37,13 +37,13 @@ $ yarn add jwt-decode
 
 <br/>
 
-<img src="../images/signup.png" width="320" height="560"/>&nbsp;&nbsp;&nbsp;<img src="../images/login.png" width="320" height="560"/>
+<img src="./images/signup.png" width="320" height="560"/>&nbsp;&nbsp;&nbsp;<img src="./images/login.png" width="320" height="560"/>
 
 <br/>
 
 # 🌐 Simpe Architecture
 
-![쩜다](../images/architecture.png)
+![쩜다](./images/architecture.png)
 
 <br/>
 
@@ -56,6 +56,6 @@ $ yarn add jwt-decode
 
 <br/>
 
-<img src="../images/home_2.png" width="320" height="540"/>&nbsp;&nbsp;&nbsp;<img src="../images/home_3.png" width="320" height="540"/><br/><img src="../images/home_4.png" width="320" height="540"/>&nbsp;&nbsp;&nbsp;<img src="../images/home_5.png" width="320" height="540"/>
+<img src="./images/home_2.png" width="320" height="540"/>&nbsp;&nbsp;&nbsp;<img src="./images/home_3.png" width="320" height="540"/><br/><img src="./images/home_4.png" width="320" height="540"/>&nbsp;&nbsp;&nbsp;<img src="./images/home_5.png" width="320" height="540"/>
 
 <br/>
